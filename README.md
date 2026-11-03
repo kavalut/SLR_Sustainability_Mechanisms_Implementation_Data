@@ -4,5 +4,7 @@ This repository contains supplementary materials for a systematic literature rev
 
 The repository provides the search strategy, study selection criteria, extracted findings, and analytical classification used in the review. The materials support transparency and reproducibility of the research.
 
+Below you can find the PRISMA analysis of this SLR.
+
 
 <img width="1086" height="1448" alt="Study Selection Flowchart" src="https://github.com/user-attachments/assets/0f5c5626-ab9f-45f8-906c-4141b409bfd0" />
