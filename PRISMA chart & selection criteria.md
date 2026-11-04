@@ -14,6 +14,8 @@
 - Studies focusing only on software maintainability, longevity, or quality without an explicit sustainability perspective.
 - Studies discussing sustainability at a general organizational level without a clear connection to software development or software-intensive organizations.
 - Duplicate records.
+- Full text not available.
+- Article not available in English.
 
 ### PRISMA chart
 
