@@ -1,3 +1,6 @@
+
+### Search was conducted 12.9.2026
+
 Scopus search string:
 
 TITLE-ABS-KEY(
