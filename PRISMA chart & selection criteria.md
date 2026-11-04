@@ -1,3 +1,5 @@
+## Article selection was made according to these criteria:
+
 ### Inclusion criteria
 
 - Studies addressing sustainability in software development or software-intensive organizations.
