@@ -22,3 +22,4 @@ Sheet no2:
 Sheet no3:
 - Cross-level analysis and grouping
 
+[slr_sustainability_implementation_mechanisms_articles.xlsx](https://github.com/user-attachments/files/34627257/slr_sustainability_implementation_mechanisms_articles.xlsx)
