@@ -14,8 +14,9 @@ In the Excel sheet you can find each article selected for this SLR and what data
 - Process Embedding (SDLC, RE & Agile/DevOps)
 - Behavioral Embedding (Culture, Skills & Ownership)
 - Technical Embedding (Tools, Green Code & Profiling)
-- Layers
-- Explanation
-- Bottleneck
+- Identified Pathway
+- Explanation of the Pathway
+- Barriers
+- Enablers
 
 [slr_sustainability_implementation_mechanisms_articles.xlsx](https://github.com/user-attachments/files/34361212/slr_sustainability_implementation_mechanisms_articles.xlsx)
