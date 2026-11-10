@@ -19,4 +19,3 @@ In the Excel sheet you can find each article selected for this SLR and what data
 - Barriers
 - Enablers
 
-[slr_sustainability_implementation_mechanisms_articles.xlsx](https://github.com/user-attachments/files/34361212/slr_sustainability_implementation_mechanisms_articles.xlsx)
