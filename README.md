@@ -4,10 +4,10 @@ This repository contains supplementary materials for a systematic literature rev
 
 The repository provides:
 
-- Full search strings
-- Article selection criteria
-- PRISMA chart
-- Excel with data extracted from each article
+- Excel with article information and extracted data
+- Coding method
+- Search strings
+- Selection criteria and PRISMA 
 
 The materials support transparency and reproducibility of the research.
 
