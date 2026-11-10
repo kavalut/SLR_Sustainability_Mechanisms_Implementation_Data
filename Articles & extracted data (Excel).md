@@ -4,6 +4,7 @@
 
 In the Excel sheet you can find each article selected for this SLR and what data has been extracted from each. Extracted data is sorted to columns:
 
+Sheet no2:
 - Article ID
 - Title
 - Authors
@@ -14,8 +15,10 @@ In the Excel sheet you can find each article selected for this SLR and what data
 - Process Embedding (SDLC, RE & Agile/DevOps)
 - Behavioral Embedding (Culture, Skills & Ownership)
 - Technical Embedding (Tools, Green Code & Profiling)
-- Identified Pathway
-- Explanation of the Pathway
+- Identified Pathways
+- Evidence to Pathways
 - Barriers
-- Enablers
+
+Sheet no3:
+- Cross-level analysis and grouping
 
