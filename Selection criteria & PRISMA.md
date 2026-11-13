@@ -19,4 +19,4 @@
 
 ### PRISMA chart
 
-<img width="340" height="420" alt="image" src="https://github.com/user-attachments/assets/66163ee4-a946-49b8-8739-42a130883d93" />
+<img width="1800" height="2211" alt="prisma_44_academic_bw" src="https://github.com/user-attachments/assets/934c90b4-9b37-44d1-bc10-1e9555bf63c8" />
